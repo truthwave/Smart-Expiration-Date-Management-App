@@ -1,5 +1,5 @@
 <p>
-  ![67CDEBA8-6E2C-4A84-B6A8-BAA5AAB4BB15](https://github.com/user-attachments/assets/f43e91ea-5abb-4251-9ffc-441a72039af3)
+![67CDEBA8-6E2C-4A84-B6A8-BAA5AAB4BB15](https://github.com/user-attachments/assets/269942a6-c8cc-45dd-8bb9-81fa17009f72)
 
 </p>
 # 🥦 賞味期限スマート管理アプリ
