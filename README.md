@@ -1,5 +1,6 @@
 <p>
-<img width="1536" height="1024" alt="賞味期限スマート管理アプリ 健康的な暮らしをもっと簡単に。賢く食品を管理し、ムダを減らそう。 (1)" src="https://github.com/user-attachments/assets/154119d9-8139-48bd-9191-ace8e3c64b09" />
+
+<img width="1536" height="1024" alt="賞味期限スマート管理アプリ 健康的な暮らしをもっと簡単に。賢く食品を管理し、ムダを減らそう。" src="https://github.com/user-attachments/assets/48904717-ba4c-4126-8c21-b5a90f572cc4" />
 
 </p>
 
