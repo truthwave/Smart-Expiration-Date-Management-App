@@ -1,7 +1,5 @@
-<p>
-
+<p align="center">
 <img width="1536" height="1024" alt="賞味期限スマート管理アプリ 健康的な暮らしをもっと簡単に。賢く食品を管理し、ムダを減らそう。" src="https://github.com/user-attachments/assets/48904717-ba4c-4126-8c21-b5a90f572cc4" />
-
 </p>
 
 
@@ -73,6 +71,9 @@
 [ともプログラム便り](https://github.com/TomoProgrammingDayori)
 
 AIツールやWebアプリ開発に関する他の作品もぜひご覧ください！
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
 ---
 
