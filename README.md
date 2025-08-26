@@ -68,7 +68,7 @@
 
 ## 🧑‍💻 作者
 
-[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+[ともAI便り](https://github.com/TomoAIDayori)
 
 AIツールやWebアプリ開発に関する他の作品もぜひご覧ください！
 
