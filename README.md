@@ -68,7 +68,7 @@
 
 ## 🧑‍💻 作者
 
-[ともAI便り](https://github.com/TomoAIDayori)
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
 AIツールやWebアプリ開発に関する他の作品もぜひご覧ください！
 
