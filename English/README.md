@@ -1,75 +1,60 @@
 # 🥦 Smart Expiration Date Management App
 
-> “Healthy living made easier — manage your food smartly and reduce waste.”
+> **Notice before you throw away.**
+> Turn tomorrow's waste in your fridge into today's action.
 
 ---
 
-## 📝 Overview
+## Experience (Three steps are all you need)
 
-**Smart Expiration Date Management App** is a web application designed for health-conscious users and organic food enthusiasts who want to keep track of food freshness and reduce waste.
-
-The app allows users to register food items by storage location (e.g. refrigerator, freezer, pantry) and **notifies them via pop-ups when expiration dates are approaching**.  
-
-It focuses on strong password security and user-friendly UI, making it suitable for both families and individuals living alone.
-
----
-
-## 🔧 Key Features
-
-- ✅ Pop-up alerts for approaching expiration dates
-- 🔐 Secret question feature for password recovery
-- 🗃️ Categorize items by storage location (refrigerated, frozen, room temperature)
-- 🔍 Fuzzy search with partial and prefix matching
-- ✏️ Edit, delete, and update items
-- 🙋 User profile page for password and secret question updates
-- 🛡️ Password hashing with bcrypt for enhanced security
+- **Register**: Enter food name, storage location, and expiration date with one tap (Refrigerated/Frozen/Room Temperature)
+- **Notice**: Automatically prioritized lists for yesterday, today, and weekly use-up
+- **Use Up**: Search and filter to see only the ingredients you should use now
+> The goal isn't “zero waste.” It's a system to reduce waste without stress.
 
 ---
 
-## 🛠 Tech Stack
+## How It Works (Shortest Route)
 
-| Category        | Technology          |
-|-----------------|---------------------|
-| Language        | Python / JavaScript |
-| Framework       | Flask               |
-| Database        | SQLite              |
-| Other           | HTML / CSS / bcrypt |
+1. Add food (e.g., yogurt / refrigerated / expires in 5 days)<br>
+2. App prioritizes items expiring in 2 days or less; same-day items get elevated to “action required”<br>
+3. Weekly “Use-Up List” lets you check inventory before shopping
 
 ---
 
-## 🎨 Design Highlights
+## Smart Notifications
 
-- Natural, organic-inspired color palette to evoke a sense of health and sustainability
-- Minimalist UI designed for comfortable use on smartphones
-
----
-
-## 👤 My Role
-
-- Complete solo development covering:
-  - Requirements definition
-  - UI/UX design
-  - Backend implementation
-  - Database design
-  - Testing and validation
+- **Day Before & Same Day** Notifications (One consolidated notification)
+- **Weekly Digest** visualizes inventory peaks
+- **Quiet mode is default** for notification frequency (avoids disruption)
 
 ---
 
-## 📎 Notes
+## Design
 
-- This application was developed for learning and experimental purposes.  
-- Source code is currently not publicly available.  
-- This README serves as a summary of the implementation.
-
----
-
-## 📬 Contact
-
-Interested in this project or potential collaborations?  
-Feel free to reach out via DM or GitHub Issues!
+- **Organic** color palette and **minimal UI**
+- One-handed operation. Contrast optimized for color blindness
 
 ---
 
-> “Healthy living made easier — manage your food smartly and reduce waste.”
+## Technical Notes (Key Points Only)
+
+- Flask + SQLite / Python / JS
+- Authentication: Token-based / Hashed
+- Future: Family sharing / Recipe integration / Shopping list export
 
 ---
+
+## 🧑‍💻 Creator
+
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+
+Check out my other works on AI tools and web app development!
+
+## Feel Free to Contact Me
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
+
+---
+
+> **Don't add. Keep only the design that lasts every day.**
+> That is design that changes life.
