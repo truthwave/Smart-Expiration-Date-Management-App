@@ -3,6 +3,11 @@
 > **Notice before you throw away.**
 > Turn tomorrow's waste in your fridge into today's action.
 
+<p align="center">
+<img width="1536" height="1024" alt="賞味期限スマート管理アプリ" src="https://github.com/user-attachments/assets/f6fad2da-9f8a-4aaa-8c32-0a614b13700b" />
+
+</p>
+
 ---
 
 ## Experience (Three steps are all you need)
