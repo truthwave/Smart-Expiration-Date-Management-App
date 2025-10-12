@@ -4,7 +4,8 @@
 > Turn tomorrow's waste in your fridge into today's action.
 
 <p align="center">
-<img width="1536" height="1024" alt="賞味期限スマート管理アプリ" src="https://github.com/user-attachments/assets/f6fad2da-9f8a-4aaa-8c32-0a614b13700b" />
+<img width="1536" height="1024" alt="賞味期限スマート管理アプリ (1)" src="https://github.com/user-attachments/assets/7cf44591-7b12-420c-bc5b-dfb4dc5f9f74" />
+
 
 </p>
 
