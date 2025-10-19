@@ -4,7 +4,7 @@
 > 冷蔵庫の“未来のムダ”を、今日の行動に変える。
 
 <p align="center">
-<img width="1536" height="1024" alt="賞味期限スマート管理アプリ 健康的な暮らしをもっと簡単に。賢く食品を管理し、ムダを減らそう。" src="https://github.com/user-attachments/assets/48904717-ba4c-4126-8c21-b5a90f572cc4" />
+<img width="1536" height="1024" alt="賞味期限 (1)" src="https://github.com/user-attachments/assets/5c14c5b4-a015-4ba7-92b0-5fa8da4ca73d" />
 </p>
 
 ---
