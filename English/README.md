@@ -4,7 +4,7 @@
 > Turn tomorrow's waste in your fridge into today's action.
 
 <p align="center">
-<img width="1536" height="1024" alt="賞味期限 (2)" src="https://github.com/user-attachments/assets/32956cb1-a20f-4139-8211-d70179495458" />
+<img width="1536" height="1024" alt="賞味期限" src="https://github.com/user-attachments/assets/65a93018-8c77-4dc0-aa32-1e0cbb249546" />
 </p>
 
 ---
