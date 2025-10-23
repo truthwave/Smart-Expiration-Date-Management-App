@@ -4,7 +4,7 @@
 > 冷蔵庫の“未来のムダ”を、今日の行動に変える。
 
 <p align="center">
-<img width="1536" height="1024" alt="賞味期限 (1)" src="https://github.com/user-attachments/assets/5c14c5b4-a015-4ba7-92b0-5fa8da4ca73d" />
+<img width="1536" height="1024" alt="賞味期限" src="https://github.com/user-attachments/assets/68f0db72-198d-47f4-8c06-dfe8939ab08b" />
 </p>
 
 ---
